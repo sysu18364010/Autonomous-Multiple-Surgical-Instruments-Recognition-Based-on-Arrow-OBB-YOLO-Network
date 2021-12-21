@@ -1,0 +1,6 @@
+classes = 7
+train = data/train.txt
+valid = data/val.txt
+test = data/test.txt
+names = data/yolo.names
+backup = backup/
